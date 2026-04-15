@@ -34,8 +34,6 @@ Tutte(o quasi) le pagine sono collegate al backend tramite la pagina auth.ts che
 
 In Models sono presenti tutti gli schemi salvati su MongoDB(user, evento, task, note, pomodoro).
 
-L'unica parte mancante dell'estensione 18-27 sono le notifiche per alcuni bug e questioni tempistiche abbiamo deciso di non implementare.
-
 
 Divisione del lavoro:
 Thomas Bernardi: implementazione Login e registrazione(backend e frontend), pagina home.tsx(backend e frontend), CalendarPage.tsx e logica task, eventi, pomodoro(backend e frontend), pagina Note(frontend), navabar e opzioni(account e profilo), Collegamento a MongoDB Atlas.
